@@ -133,11 +133,11 @@ plt.imshow(img_28_gray_inverted_scaled.reshape(28,28),cmap='gray')
 
 ### Classification Report
 
-![image](https://github.com/Evangelin-Ruth/mnist-classification/assets/94219798/faf57033-90c3-4dfc-9afe-955c094920ad)
+![image](https://github.com/Evangelin-Ruth/mnist-classification/assets/94219798/09e2dbc1-927e-495e-a342-3febe3287904)
 
 ### Confusion Matrix
 
-![image](https://github.com/Evangelin-Ruth/mnist-classification/assets/94219798/a69c3434-d1df-43f9-9680-d46081aa207b)
+![image](https://github.com/Evangelin-Ruth/mnist-classification/assets/94219798/1933d8bd-2e7e-440b-92e7-76de2d56d464)
 
 ### New Sample Data Prediction
 
