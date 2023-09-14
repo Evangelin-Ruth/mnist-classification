@@ -147,4 +147,3 @@ plt.imshow(img_28_gray_inverted_scaled.reshape(28,28),cmap='gray')
 ## RESULT
 A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
 
-## RESULT
